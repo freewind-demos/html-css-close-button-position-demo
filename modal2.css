@@ -1,0 +1,17 @@
+#modal2 {
+  position: relative;
+  width: 600px;
+  height: 200px;
+  background-color: #EEEEEE;
+  margin: 50px auto;
+  overflow: auto;
+}
+
+#modal2 .close {
+  position: absolute;
+  cursor: pointer;
+  font-size: 30px;
+  top: 30px;
+  right: 30px;
+}
+
